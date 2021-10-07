@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/ryuichiueda/raspimouse_ros.svg?branch=master)](https://travis-ci.org/ryuichiueda/raspimouse_ros)
 
 こちらは書籍用に開発をストップして、新しいバージョンに移行します。
@@ -41,3 +42,7 @@
 ## 動作確認した環境
 
 - Ubuntu Linux 14.04 server on Raspberry Pi 2
+=======
+# pimouse_ros2
+sample20211005
+>>>>>>> e06922a868bea7f3362f535dc7bacddbe4c53c67
